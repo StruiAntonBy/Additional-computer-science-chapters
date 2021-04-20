@@ -1,0 +1,4 @@
+1) http://www.devowl.net/2018/10/Chaos-method-game-sierpinski-triangle.html
+2) https://python-scripts.com/random
+3) https://математика24.рф/kak-najti-seredinu-vektora-po-koordinatam.html
+4) https://docs.python.org/3/library/turtle.html#turtle.speed

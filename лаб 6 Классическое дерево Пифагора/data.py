@@ -1,0 +1,5 @@
+ANGLE_A = 10
+ANGLE_B = 80
+SPEED = 0
+SIZE = 100
+N = 4

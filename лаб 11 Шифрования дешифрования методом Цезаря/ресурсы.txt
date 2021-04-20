@@ -1,0 +1,4 @@
+1) https://ru.wikipedia.org/wiki/Шифр_Цезаря
+2) file:///D:/Книги/Python/Python%203%20и%20PyQt%205.%20Разработка%20приложений%20(%20PDFDrive.com%20).pdf
+3) https://docs-python.ru/tutorial/operatsii-tekstovymi-strokami-str-python/metod-str-isupper/
+4) https://python-school.ru/unit-tests/

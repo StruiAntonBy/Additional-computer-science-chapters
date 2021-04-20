@@ -1,0 +1,5 @@
+K = 0.7
+SIZE = 100
+N = 5
+ANGLE_A = 45
+ANGLE_B = 90
